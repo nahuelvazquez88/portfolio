@@ -345,10 +345,7 @@
   }
 
   
-  .fa-sass {
-    color: fuchsia;
-  }
-  
+ 
   .fa-js {
     color: yellow;
   }
@@ -361,6 +358,9 @@
     color: rgb(241, 90, 35);
   }
   
+ 
+
+
   /*//////ESTILOS SECCIÓN CITA///////*/
   
   .cita {
